@@ -45,8 +45,8 @@ BA.2,21K,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,"amp1,2",21632_-TACCCCCTG,"L24S
 B.1.1.529,21M,Omicron,"B.1.1.529,21M",VOC-21NOV-01,amp5,21987_A ,G142D,no,"B.1.1.529,Co-occurs delta (outlier)",new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp7,22200_G,V213G,yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp11,22688_G,T376A,yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
-BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp12,22775_A,D405N,yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
-BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp12,22786_C,R408S,yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/410,
+BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp12,22775_A,D405N,no,"BA.2, amplicon 12 failure",new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
+BA.2,21L,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,amp12,22786_C,R408S,no,"BA.2, amplicon 12 failure",new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/410,
 BA.1.1,,Omi-R346K,B.1.1.529+R346K,VUI-22JAN-01,amp10,22599_A,R346K,no,B.1.1.529+R346K,new,,,
 B.1.1.7,20I,Alpha,"20I(Alpha, V1)",VOC-20DEC-01,amp3,21764_-TACATG,DEL69/70(),yes,cooccurs BA.1,,https://covariants.org/variants/20I.Alpha.V1,https://cov-lineages.org/lineage.html?lineage=B.1.1.7,https://github.com/phe-genomics/variant_definitions/blob/main/variant_yaml/denture-daughter.yml
 B.1.1.7,20I,Alpha,"20I(Alpha, V1)",VOC-20DEC-01,amp5,21990_-TTA,DEL144,yes,,,https://covariants.org/variants/20I.Alpha.V1,https://cov-lineages.org/lineage.html?lineage=B.1.1.8,https://github.com/phe-genomics/variant_definitions/blob/main/variant_yaml/denture-daughter.yml
