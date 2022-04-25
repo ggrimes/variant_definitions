@@ -38,7 +38,7 @@ B.1.1.529,21M,Omicron,"B.1.1.529,21M",VOC-21NOV-01,amp24,23948_T,D796Y,yes,B.1.1
 BA.1,21K,Omicron,"BA.1,21K",VOC-21NOV-01,amp25,24130_A,N856K,yes,BA.1,new,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 B.1.1.529,21M,Omicron,"B.1.1.529,21M",VOC-21NOV-01,amp30,24424_T,Q954H,yes,B.1.1.529,,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 B.1.1.529,21M,Omicron,"B.1.1.529,21M",VOC-21NOV-01,amp30,24469_A,N969K,yes,B.1.1.529,,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
-BA.1,21K,Omicron,"BA.1,21K",VOC-21NOV-01,amp30,24503_T,L981F,yes,BA.1,,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
+BA.1,21K,Omicron,"BA.1,21K",VOC-21NOV-01,amp30,31,24503_T,L981F,yes,BA.1,,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 B.1.1.529,21M,Omicron,"B.1.1.529,21M",VOC-21NOV-01,"amp36,amp37",25000_T,,yes,B.1.1.529,new,https://covariants.org/variants/21K.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,https://github.com/phe-genomics/variant_definitions/blob/main/variant_yaml/pentagon-refining.yml
 BA.2,21K,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,"amp1,2",21618_T,T19I,yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
 BA.2,21K,Omicron-stealth,"BA.2,21L",VUI-22JAN-01,"amp1,2",21632_-TACCCCCTG,"L24S,DEL25/27",yes,BA.2,new,https://covariants.org/variants/21L.Omicron,https://github.com/cov-lineages/pango-designation/issues/361,
